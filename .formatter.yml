@@ -1,0 +1,11 @@
+use-sort:
+    sort-type: alph
+    sort-direction: asc
+
+header: |
+    /**
+     * Aist Authorization Middleware (http://mateuszsitek.com/projects/authorization-middleware)
+     *
+     * @copyright Copyright (c) 2017 DIGITAL WOLVES LTD (http://digitalwolves.ltd) All rights reserved.
+     * @license   http://opensource.org/licenses/BSD-3-Clause BSD-3-Clause
+     */
