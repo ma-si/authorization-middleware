@@ -6,6 +6,7 @@
     backupGlobals="false"
     beStrictAboutOutputDuringTests="true"
     beStrictAboutTestsThatDoNotTestAnything="true"
+    bootstrap="vendor/autoload.php"
 >
     <testsuite name="Authorization Middleware tests">
         <directory>./test</directory>

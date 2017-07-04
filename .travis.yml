@@ -48,3 +48,4 @@ install:
 branches:
   only:
     - master
+    - develop
